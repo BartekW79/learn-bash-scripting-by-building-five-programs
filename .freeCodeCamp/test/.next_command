@@ -162,3 +162,5 @@ help test
 ./countdown.sh 1
 ./countdown.sh dsa
 help
+./countdown.sh 20
+./countdown.sh 10
