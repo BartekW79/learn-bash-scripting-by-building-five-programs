@@ -151,3 +151,5 @@ help test
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
 help [[
+__vsc_prompt_cmd_original
+[[ -x countdown.sh && 5 -le 4 ]]
