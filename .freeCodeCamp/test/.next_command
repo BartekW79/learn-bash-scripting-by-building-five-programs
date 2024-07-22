@@ -32,3 +32,4 @@ sh questionnaire.sh
 bash questionaire.sh
 bash questionnaire.sh
 which bash
+./questionnaire.sh
