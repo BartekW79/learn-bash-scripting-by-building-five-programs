@@ -164,3 +164,4 @@ help test
 help
 ./countdown.sh 20
 ./countdown.sh 10
+help
