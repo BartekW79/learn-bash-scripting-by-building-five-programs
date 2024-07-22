@@ -41,3 +41,4 @@ ls --color=auto --help
 clear
 chmod +x questionnair.sh
 chmod +x questionnaire.sh
+ls --color=auto -l
