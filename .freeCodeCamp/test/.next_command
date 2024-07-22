@@ -123,3 +123,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdown.sh arg1
 ./countdown.sh
 ./countdown.sh arg2
+./countdown.sh 4
