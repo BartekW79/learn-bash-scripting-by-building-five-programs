@@ -35,3 +35,9 @@ which bash
 ./questionnaire.sh
 ls --color=auto
 ls --color=auto -l
+ls --color=auto help
+ls --color=auto -help
+ls --color=auto --help
+clear
+chmod +x questionnair.sh
+chmod +x questionnaire.sh
